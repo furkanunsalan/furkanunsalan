@@ -20,8 +20,3 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/07/adobe-photoshop-logo.png" alt="photoshop" width="50" height="50"/> </a> 
 <a href="" target="_blank"> <img src="https://insmac.org/uploads/posts/2020-08/1597638534_lightroom-classic.png" alt="lightroom" width="50" height="50"/> </a> </p>
-
-<br>
-<br>
-<br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanunsalan&layout=compact&hide=html" alt="furkanunsalan" /></p> <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=furkanunsalan&show_icons=true" alt="furkanunsalan" /></p>
