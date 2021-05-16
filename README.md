@@ -8,10 +8,9 @@
 <a href="mailto:contact@furkanunsalan.com"><img src="https://img.shields.io/badge/-contact@furkanunsalan.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/furkanunsalan"><img src="https://img.shields.io/badge/-@furkanunsalan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanunsalan&layout=compact&hide=html" alt="furkanunsalan" /></p>  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=furkanunsalan&show_icons=true" alt="furkanunsalan" /></p>
 
 
-<hr>
+
 
 <h3 align="center">Languages and Tools I Use</h3>
 <p align="center"><a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="50" height="50"/> </a>
@@ -22,3 +21,7 @@
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/07/adobe-photoshop-logo.png" alt="photoshop" width="50" height="50"/> </a> 
 <a href="" target="_blank"> <img src="https://insmac.org/uploads/posts/2020-08/1597638534_lightroom-classic.png" alt="lightroom" width="50" height="50"/> </a> </p>
 
+<br>
+<br>
+<br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanunsalan&layout=compact&hide=html" alt="furkanunsalan" /></p>  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=furkanunsalan&show_icons=true" alt="furkanunsalan" /></p>
