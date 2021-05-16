@@ -10,13 +10,7 @@
 </p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanunsalan&layout=compact&hide=html" alt="furkanunsalan" /></p>  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=furkanunsalan&show_icons=true" alt="furkanunsalan" /></p>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <hr>
 
 <h3 align="center">Languages and Tools I Use</h3>
