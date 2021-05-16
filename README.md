@@ -24,4 +24,4 @@
 <br>
 <br>
 <br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanunsalan&layout=compact&hide=html" alt="furkanunsalan" /></p>  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=furkanunsalan&show_icons=true" alt="furkanunsalan" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanunsalan&layout=compact&hide=html" alt="furkanunsalan" /></p> <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=furkanunsalan&show_icons=true" alt="furkanunsalan" /></p>
