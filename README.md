@@ -12,7 +12,6 @@
 </p>
 
 <br>
-<br>
 
 <h3 align="center">Languages and Tools I Use</h3>
 <p align="center"><a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="50" height="50"/> </a>
