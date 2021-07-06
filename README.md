@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">High School Student | Future Software Developer</h3>
 <p align="center">
-<a href="https://www.furkanunsalan.com"><img src="images/websitePanel"/></a>
+<a href="https://www.furkanunsalan.com"><img src="https://img.shields.io/badge/-furkanunsalan.com-2978b5?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:contact@furkanunsalan.com"><img src="https://img.shields.io/badge/-contact@furkanunsalan.com-ff8303?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/furkanunsalan"><img src="https://img.shields.io/badge/-@furkanunsalan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.reddit.com/user/Siflious"><img src="https://img.shields.io/badge/-Siflious-ce1212?style=flat&logo=Reddit&logoColor=white"/></a>
