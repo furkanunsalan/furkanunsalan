@@ -24,7 +24,7 @@
 <a href="" target="_blank"> <img src="https://insmac.org/uploads/posts/2020-08/1597638534_lightroom-classic.png" alt="lightroom" width="50" height="50"/> </a>
 <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vs-code" width="50" height="50"/> </a> 
 <a href="" target="_blank"> <img src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" alt="atom-editor" width="50" height="50"/> </a>
-<a href="" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2368/PNG/512/github_logo_icon_143772.png" alt="github" width="50" height="50"/> </a>
+<a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" alt="github" width="50" height="50"/> </a>
 <a href="" target="_blank"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" width="50" height="50"/> </a> </p>
 
 <br>
