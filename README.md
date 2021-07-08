@@ -4,11 +4,12 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">High School Student | Future Software Developer</h3>
 <p align="center">
-<a href="https://www.furkanunsalan.com"><img src="https://img.shields.io/badge/-furkanunsalan.com-2978b5?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:contact@furkanunsalan.com"><img src="https://img.shields.io/badge/-contact@furkanunsalan.com-ff8303?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/furkanunsalan"><img src="https://img.shields.io/badge/-@furkanunsalan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.reddit.com/user/Siflious"><img src="https://img.shields.io/badge/-Siflious-ce1212?style=flat&logo=Reddit&logoColor=white"/></a>
-<a href="https://open.spotify.com/user/furkanunsalan"><img src="https://img.shields.io/badge/-furkanunsalan-54e346?style=flat&logo=Spotify&logoColor=white"/></a>
+<a href="https://www.furkanunsalan.com"><img src="https://github.com/furkanunsalan/Personel-Website/blob/main/images/websitePanel.png"/></a>
+<a href="mailto:contact@furkanunsalan.com"><img src="https://github.com/furkanunsalan/Personel-Website/blob/main/images/mailPanel.png"/></a>
+<a href="https://instagram.com/furkanunsalan"><img src="https://github.com/furkanunsalan/Personel-Website/blob/main/images/instaPanel.png"/></a>
+<a href="https://www.reddit.com/user/Siflious"><img src="https://github.com/furkanunsalan/Personel-Website/blob/main/images/redditPanel.png"/></a>
+<a href="https://open.spotify.com/user/furkanunsalan"><img src="https://github.com/furkanunsalan/Personel-Website/blob/main/images/spotifyPanel.png"/></a>
+<a href="twitter.com/furkanunsalan"><img src="https://github.com/furkanunsalan/Personel-Website/blob/main/images/twitterPanel.png"/></a>
 </p>
 
 <br>
