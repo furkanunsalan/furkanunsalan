@@ -9,7 +9,7 @@
 <a href="https://instagram.com/furkanunsalan"><img src="https://github.com/furkanunsalan/Personel-Website/blob/main/images/instaPanel.png"/></a>
 <a href="https://www.reddit.com/user/Siflious"><img src="https://github.com/furkanunsalan/Personel-Website/blob/main/images/redditPanel.png"/></a>
 <a href="https://open.spotify.com/user/furkanunsalan"><img src="https://github.com/furkanunsalan/Personel-Website/blob/main/images/spotifyPanel.png"/></a>
-<a href="twitter.com/furkanunsalan"><img src="https://github.com/furkanunsalan/Personel-Website/blob/main/images/twitterPanel.png"/></a>
+<a href="https://twitter.com/furkanunsalan"><img src="https://github.com/furkanunsalan/Personel-Website/blob/main/images/twitterPanel.png"/></a>
 </p>
 
 <br>
