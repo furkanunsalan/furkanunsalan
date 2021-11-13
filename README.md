@@ -4,12 +4,12 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">High School Student | Future Software Developer</h3>
 <p align="center">
-<a href="https://furkanunsalan.com"><img src="http://furkanunsalan.com/images/websitePanel.png"/></a>
+<a target="_blank" href="https://furkanunsalan.com"><img src="http://furkanunsalan.com/images/websitePanel.png"/></a>
 <a href="mailto:contact@furkanunsalan.com"><img src="http://furkanunsalan.com/images/mailPanel.png"/></a>
-<a href="https://instagram.com/furkanunsalan"><img src="http://furkanunsalan.com/images/instaPanel.png"/></a>
-<a href="https://www.reddit.com/user/Siflious"><img src="http://furkanunsalan.com/images/redditPanel.png"/></a>
-<a href="https://open.spotify.com/user/furkanunsalan"><img src="http://furkanunsalan.com/images/spotifyPanel.png"/></a>
-<a href="https://twitter.com/furkanunsalan"><img src="http://furkanunsalan.com/images/twitterPanel.png"/></a>
+<a target="_blank" href="https://instagram.com/furkanunsalan"><img src="http://furkanunsalan.com/images/instaPanel.png"/></a>
+<a target="_blank" href="https://www.reddit.com/user/Siflious"><img src="http://furkanunsalan.com/images/redditPanel.png"/></a>
+<a target="_blank" href="https://open.spotify.com/user/furkanunsalan"><img src="http://furkanunsalan.com/images/spotifyPanel.png"/></a>
+<a target="_blank" href="https://twitter.com/furkanunsalan"><img src="http://furkanunsalan.com/images/twitterPanel.png"/></a>
 </p>
 
 <br>
