@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.hipwallpaper.com/i/27/47/KIczhM.png" height="200"/>
+  <img src="https://furkanunsalan.com/images/banner-removebg-preview.png" height="200"/>
 </p>
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">High School Student | Future Software Developer</h3>
