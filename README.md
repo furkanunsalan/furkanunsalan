@@ -2,7 +2,7 @@
   <img src="https://furkanunsalan.com/images/banner-removebg-preview.png" height="200"/>
 </p>
 <h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">High School Student | Future Software Developer</h3>
+<h3 align="center">High School Student | Web Developer</h3>
 <p align="center">
 <a target="_blank" href="https://furkanunsalan.com"><img src="http://furkanunsalan.com/images/websitePanel.png"/></a>
 <a href="mailto:contact@furkanunsalan.com"><img src="http://furkanunsalan.com/images/mailPanel.png"/></a>
