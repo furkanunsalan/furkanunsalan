@@ -10,9 +10,6 @@ Web Developer - High School Student
 
 Hi! I’m Furkan Ünsalan. I’m 16 and currently studying in high school. I’m mostly into Web Development and Python
 
-* 🌍  I'm based in İstanbul
-* 🖥️  See my portfolio at [My Website](http://furkanunsalan.com)
-* ✉️  You can contact me at [contact@furkanunsalan.com](mailto:contact@furkanunsalan.com)
 
 ### Skills
 
