@@ -20,7 +20,7 @@
 <img src="https://furkanunsalan.com/images/nodejs.svg" alt="nodejs" width="50" height="50"/>
 <img src="https://furkanunsalan.com/images/javascript2.svg" alt="javascript" width="50" height="50"/>
 <img src="https://furkanunsalan.com/images/html.svg" alt="html5" width="50" height="50"/>
-<img src="https://furkanunsalan.com/images/css.svg" alt="css3" width="50" height="50"/>
+<img src="https://furkanunsalan.com/images/css.svg?v=4" alt="css3" width="50" height="50"/>
 <img src="https://furkanunsalan.com/images/sass.svg" alt="sass" width="50" height="50"/>
 <img src="https://furkanunsalan.com/images/photoshop1.svg" alt="photoshop" width="50" height="50"/>
 <img src="https://furkanunsalan.com/images/lightroom.svg" alt="lightroom" width="50" height="50"/>
