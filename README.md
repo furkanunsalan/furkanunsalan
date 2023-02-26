@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://furkanunsalan.com/images/banner-removebg-preview.png" height="200"/>
-</p>
 <h1 align="center">Hi 👋, I'm Furkan Ünsalan</h1>
 <h3 align="center">Software Enthusiast | Web Developer</h3>
 <p align="center">
