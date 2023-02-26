@@ -1,9 +1,10 @@
 <p align="center">
   <img src="https://furkanunsalan.com/images/banner-removebg-preview.png" height="200"/>
 </p>
-<h1 align="center">Hi 👋, I'm Furkan</h1>
-<h3 align="center">High School Student | Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Furkan Ünsalan</h1>
+<h3 align="center">Software Enthusiast | Web Developer</h3>
 <p align="center">
+  <!--
 <a target="_blank" href="https://furkanunsalan.com"><img src="http://furkanunsalan.com/images/websitePanel.png"/></a>
 <a href="mailto:contact@furkanunsalan.com"><img src="http://furkanunsalan.com/images/mailPanel.png"/></a>
 <a target="_blank" href="https://instagram.com/furkanunsalan"><img src="http://furkanunsalan.com/images/instaPanel.png"/></a>
@@ -35,3 +36,4 @@
 <br>
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanunsalan&show_icons=true" alt="furkanunsalan" /></p>
+-->
