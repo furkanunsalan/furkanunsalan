@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Ünsalan</h1>
 <h3 align="center">Software Enthusiast | Web Developer</h3>
-<p style="align: center;">
+
+<p align="center">
   
 <a target="_blank" href="https://furkanunsalan.dev"><img src="http://furkanunsalan.dev/wp-content/uploads/2023/08/websitePanel.png"/></a>
 <a href="mailto:me@furkanunsalan.dev"><img src="http://furkanunsalan.dev/wp-content/uploads/2023/08/mailPanel.png"/></a>
@@ -34,4 +35,3 @@
 <br>
 <br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanunsalan&show_icons=true" alt="furkanunsalan" /></p>
--->
