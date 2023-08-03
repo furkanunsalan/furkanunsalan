@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan Ünsalan</h1>
 <h3 align="center">Software Enthusiast | Web Developer</h3>
 
-<p align="center">
+<p style="display: block; align: center; ">
   
 <a target="_blank" href="https://furkanunsalan.dev"><img src="http://furkanunsalan.dev/wp-content/uploads/2023/08/websitePanel.png"/></a>
 <a href="mailto:me@furkanunsalan.dev"><img src="http://furkanunsalan.dev/wp-content/uploads/2023/08/mailPanel.png"/></a>
