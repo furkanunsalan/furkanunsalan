@@ -34,7 +34,7 @@
 <h3 align="center">Languages and Tools I Use</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,replit,figma,photoshop,javascript,html,css,sass,wordpress,python,react,docker,git,raspberrypi,nodejs&perline=15" />
+    <img src="https://skillicons.dev/icons?i=vscode,replit,figma,photoshop,javascript,html,css,sass,wordpress,python,react,docker,git,raspberrypi,nodejs&perline=5" />
   </a>
 </p>
 
