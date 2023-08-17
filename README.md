@@ -24,7 +24,7 @@
      src="https://komarev.com/ghpvc/?username=furkanunsalan&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   <a href="furkanunsalan.dev"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://furkanunsalan.dev" height="25"
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://www.furkanunsalan.dev" height="25"
      alt="website" /></a>
   </p>
 
