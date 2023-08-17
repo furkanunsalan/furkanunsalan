@@ -40,8 +40,8 @@
 
 <br>
 
+<div align="center">
 <p align="center">
-  
 <a target="_blank" href="https://furkanunsalan.dev"><img src="http://furkanunsalan.dev/wp-content/uploads/2023/08/websitePanel.png"/></a>
 <a href="mailto:me@furkanunsalan.dev"><img src="http://furkanunsalan.dev/wp-content/uploads/2023/08/mailPanel.png"/></a>
 <a target="_blank" href="https://instagram.com/furkanunsalan"><img src="http://furkanunsalan.dev/wp-content/uploads/2023/08/instaPanel.png"/></a>
@@ -49,6 +49,7 @@
 <a target="_blank" href="https://open.spotify.com/user/furkanunsalan"><img src="http://furkanunsalan.dev/wp-content/uploads/2023/08/spotifyPanel.png"/></a>
 <a target="_blank" href="https://twitter.com/furkanunsalan"><img src="http://furkanunsalan.dev/wp-content/uploads/2023/08/twitterPanel.png"/></a>
 </p>
+</div>
 
 <br>
 
