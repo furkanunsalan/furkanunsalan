@@ -3,11 +3,6 @@
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&center=true&width=435&color=0E7334&lines=Software+Enthusiast;Web+Developer;Student" alt="Typing SVG" /></a></p>
 </div>
 
-<div align="center">
-  <h3 align="center">My Name Is</h3>
-  <h1 align="center">Furkan Ünsalan</h1>
-</div>
-
 
 
 
