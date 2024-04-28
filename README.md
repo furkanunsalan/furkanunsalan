@@ -1,5 +1,5 @@
 <div align="center"> 
-<h1 align="center">Hi <img width="35" src="http://furkanunsalan.dev/wp-content/uploads/2023/08/waving.gif">, I'm Furkan</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/furkanunsalan/furkanunsalan/blob/main/images/waving.gif">, I'm Furkan</h1>
 <p><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&center=true&width=435&color=0E7334&lines=Software+Enthusiast;Web+Developer;Student" alt="Typing SVG" /></a></p>
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://furkanunsalan.dev">
-  <img  src="http://furkanunsalan.dev/wp-content/uploads/2023/08/grid-snake.svg"
+  <img  src="https://github.com/furkanunsalan/furkanunsalan/blob/main/images/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -37,12 +37,11 @@
 
 <div align="center">
 <p align="center">
-<a target="_blank" href="https://furkanunsalan.dev"><img src="http://furkanunsalan.dev/wp-content/uploads/2023/08/websitePanel.png"/></a>
-<a href="mailto:me@furkanunsalan.dev"><img src="http://furkanunsalan.dev/wp-content/uploads/2023/08/mailPanel.png"/></a>
-<a target="_blank" href="https://instagram.com/furkanunsalan"><img src="http://furkanunsalan.dev/wp-content/uploads/2023/08/instaPanel.png"/></a>
-<a target="_blank" href="https://www.linkedin.com/in/furkan-%C3%BCnsalan-441961212/"><img src="http://furkanunsalan.dev/wp-content/uploads/2023/08/linkedinPanel.png"/></a>
-<a target="_blank" href="https://open.spotify.com/user/furkanunsalan"><img src="http://furkanunsalan.dev/wp-content/uploads/2023/08/spotifyPanel.png"/></a>
-<a target="_blank" href="https://twitter.com/furkanunsalan"><img src="http://furkanunsalan.dev/wp-content/uploads/2023/08/twitterPanel.png"/></a>
+<a target="_blank" href="https://furkanunsalan.dev"><img src="https://github.com/furkanunsalan/furkanunsalan/blob/main/images/websitePanel.png"/></a>
+<a href="mailto:me@furkanunsalan.dev"><img src="https://github.com/furkanunsalan/furkanunsalan/blob/main/images/mailPanel.png"/></a>
+<a target="_blank" href="https://instagram.com/furkanunsalan"><img src="https://github.com/furkanunsalan/furkanunsalan/blob/main/images/instaPanel.png"/></a>
+<a target="_blank" href="https://open.spotify.com/user/furkanunsalan"><img src="https://github.com/furkanunsalan/furkanunsalan/blob/main/images/spotifyPanel.png"/></a>
+<a target="_blank" href="https://twitter.com/furkanunsalan"><img src="https://github.com/furkanunsalan/furkanunsalan/blob/main/images/twitterPanel.png"/></a>
 </p>
 </div>
 
