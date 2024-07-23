@@ -11,6 +11,7 @@
 <br>
 ---> 
 
+<!--
 <p align="center">
   <a href="github.com/furkanunsalan" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=furkanunsalan&style=for-the-badge&label=PROFILE+VIEWS" height="25"
@@ -19,7 +20,7 @@
      src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://furkanunsalan.dev" height="25"
      alt="website" /></a>
   </p>
-
+-->
 
 <br>
 
@@ -46,7 +47,7 @@
 </p>
 </div>
 --->
-
+<!--
 <br>
 
 <table align="center">
@@ -61,3 +62,4 @@
     </td>
   </tr>
 </table>
+-->
