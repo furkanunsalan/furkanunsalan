@@ -1,6 +1,8 @@
+<!--- 
 <a href="https://github.com/furkanunsalan">
   <img alt="Furkan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=furkanunsalan&theme=github-compact&hide_border=true" />
 </a>
+---> 
 
 <!--- 
 <div align="center">
@@ -20,9 +22,10 @@
      src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://furkanunsalan.dev" height="25"
      alt="website" /></a>
   </p>
--->
+
 
 <br>
+-->
 
 <!---
 <h3 align="center">Languages and Tools I Use</h3>
